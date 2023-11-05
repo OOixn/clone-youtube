@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+// setting 순서 중요함, 위에서부터 일기 때문에.
+@import "setting/fonts";
+@import "setting/vars";
+@import "setting/reset";
+@import "setting/mixin";
+@import "setting/common";
