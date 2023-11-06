@@ -14,7 +14,7 @@ import { AiOutlineInstagram } from "react-icons/ai";
 
 export const headerMenus = [
   {
-    title: "박은지 멍청이",
+    title: "O.O_ixn",
     icon: <CiBaseball />,
     src: "/",
   },
@@ -29,12 +29,12 @@ export const headerMenus = [
     src: "/developer",
   },
   {
-    title: "웹디자인기능사",
+    title: "웹 디자인 기능사",
     icon: <CiBoxes />,
     src: "/webd",
   },
   {
-    title: "웹표준 사이트",
+    title: "웹 표준 사이트",
     icon: <CiBullhorn />,
     src: "/website",
   },
